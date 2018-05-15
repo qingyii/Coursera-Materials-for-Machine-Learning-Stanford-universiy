@@ -1,2 +1,2 @@
-# Coursera-Materials-for-Machine-Learning-Stanford-universiy-
+# Coursera-Materials-for-Machine-Learning-Stanford-universiy
 Andrew Ng
